@@ -1,0 +1,22 @@
+{
+    "name": "blue-dragon",
+    "displayName": "Blue Dragon",
+    "description": "Dark theme for VS Code",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Blue Dragon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Blue Dragon-color-theme.json"
+            }
+        ]
+    },
+    "publisher": "CecilyJansen"
+}
